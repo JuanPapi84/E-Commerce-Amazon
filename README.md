@@ -98,7 +98,7 @@ Este proceso de EDA proporciona una base sólida para el análisis posterior y l
     │   └── analisis-exploratorio-datos.ipynb   <- Notebook de Análisis Exploratorio de Datos.
     │
     │
-    ├── scripts_SQL                             <- Scripts SQL
+    ├── archivos_sql                            <- Scripts SQL
     │   ├── amazon_avance1.sql                  <- Scripts de avance 1 de proyecto amazon en sql.
     │   ├── amazon_avance2.sql                  <- Scripts de avance 2 de proyecto amazon en sql.
     │   ├── amazon_avance3.sql                  <- Scripts de avance 3 de proyecto amazon en sql.
@@ -111,7 +111,7 @@ Este proceso de EDA proporciona una base sólida para el análisis posterior y l
     ├── reportes                                <- Análisis generado en HTML, PDF, LaTeX, etc.
     │ 
     ├── imagenes                                <- Imagenes usadas en archivo README
-    │   └── logo.webp                           <- Los datos originales sin modificar.
+    │   └── logo.webp                           <- Logo de la empresa que realiza el proyecto.
     │
     └──  .here                                  <- Archivo que detendrá la búsqueda si ninguno de los otros criterios se 
                                                    aplica al buscar el encabezado del proyecto.
