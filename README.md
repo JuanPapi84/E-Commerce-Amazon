@@ -58,27 +58,27 @@ Este conjunto de datos es un raspado de ventas de productos del sitio web de Ama
 - **discount_price**: El precio de descuento del producto.
 - **actual_price**: El precio real de venta sugerido del producto.
 
+## Tratamiento de Datos Nulos
+1. **Importar bibliotecas y cargar datos**: Utilizar bibliotecas como numpy, pandas y matplotlib/seaborn para cargar el conjunto de datos de Amazon.
+
+2. **Manejo de datos faltantes**: Identificar y manejar los valores faltantes en el conjunto de datos. Esto puede implicar el relleno de valores faltantes, eliminación de filas o columnas con datos faltantes, o imputación de valores basados en otras características.
 
 ## EDA
 ### Plan de Análisis Exploratorio de Datos (EDA)
 
 El Análisis Exploratorio de Datos (EDA) es fundamental para comprender la naturaleza y la distribución de los datos antes de aplicar cualquier modelo predictivo o análisis más avanzado. A continuación, se presenta el paso a paso para llevar a cabo el EDA en el proyecto:
 
-1. **Importar bibliotecas y cargar datos**: Utilizar bibliotecas como numpy, pandas y matplotlib/seaborn para cargar el conjunto de datos de Amazon.
+1. **Exploración de datos básica**: Realizar un primer vistazo a los datos mediante funciones como `head()`, `info()`, `describe()` para comprender la estructura del conjunto de datos, tipos de datos, estadísticas descriptivas, etc.
 
-2. **Manejo de datos faltantes**: Identificar y manejar los valores faltantes en el conjunto de datos. Esto puede implicar el relleno de valores faltantes, eliminación de filas o columnas con datos faltantes, o imputación de valores basados en otras características.
+2. **Análisis univariado**: Analizar cada variable individualmente para comprender su distribución, tendencias, valores atípicos y estadísticas resumidas.
 
-3. **Exploración de datos básica**: Realizar un primer vistazo a los datos mediante funciones como `head()`, `info()`, `describe()` para comprender la estructura del conjunto de datos, tipos de datos, estadísticas descriptivas, etc.
+3. **Análisis multivariado**: Explorar las relaciones entre variables mediante técnicas como gráficos de dispersión combinados con gráficos regresión lineal. Esto puede ayudar a identificar patrones, correlaciones y posibles asociaciones entre las variables.
 
-4. **Análisis univariado**: Analizar cada variable individualmente para comprender su distribución, tendencias, valores atípicos y estadísticas resumidas.
+4. **Visualización de datos**: Utilizar bibliotecas de visualización como Matplotlib y Seaborn para crear gráficos informativos y visualizaciones que ayuden a comprender mejor los datos. Esto puede incluir histogramas, diagramas de dispersión, gráficos de barras, etc.
 
-5. **Análisis multivariado**: Explorar las relaciones entre variables mediante técnicas como gráficos de dispersión, mapas de calor de correlación, matrices de scatterplot, etc. Esto puede ayudar a identificar patrones, correlaciones y posibles asociaciones entre las variables.
+5. **Identificación de patrones y tendencias**: Buscar patrones, tendencias o anomalías en los datos que puedan proporcionar información útil para la toma de decisiones en el análisis posterior.
 
-6. **Visualización de datos**: Utilizar bibliotecas de visualización como Matplotlib y Seaborn para crear gráficos informativos y visualizaciones que ayuden a comprender mejor los datos. Esto puede incluir histogramas, diagramas de dispersión, diagramas de caja, gráficos de barras, etc.
-
-7. **Identificación de patrones y tendencias**: Buscar patrones, tendencias o anomalías en los datos que puedan proporcionar información útil para la toma de decisiones en el análisis posterior.
-
-8. **Resumen de hallazgos**: Recapitular los hallazgos más importantes del análisis exploratorio de datos y cualquier insight relevante que pueda surgir del proceso.
+6. **Resumen de hallazgos**: Recapitular los hallazgos más importantes del análisis exploratorio de datos y cualquier insight relevante que pueda surgir del proceso.
 
 Este proceso de EDA proporciona una base sólida para el análisis posterior y la toma de decisiones en el proyecto de "Precios y Popularidad de Productos en Amazon".
 
