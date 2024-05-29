@@ -32,6 +32,42 @@ Nuestras herramientas incluyen Python, Matplotlib, Seaborn, Power BI, SQL Server
 
 Este proyecto aspira a transformar datos en insights accionables para mejorar el comercio electrónico en Amazon y beneficiar a vendedores y consumidores por igual.
 
+## Dataset: Amazon Products Sales Dataset 2023
+
+Este dataset proporciona detalles sobre más de 300K productos de Amazon, divididos en 142 categorías. Puedes encontrar el dataset en el siguiente enlace: [Amazon Products Sales Dataset 2023](https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset).
+
+### Acerca del Dataset
+
+Este conjunto de datos es un raspado de ventas de productos del sitio web de Amazon. Los datos de los productos están separados por 142 categorías en formato CSV, junto con el nombre completo del conjunto de datos, "Amazon-Products.csv". Cada archivo CSV consta de 10 columnas y cada fila tiene detalles de productos correspondientes.
+
+#### Características
+
+- **name**: El nombre del producto.
+- **main_category**: La categoría principal a la que pertenece el producto.
+- **sub_category**: La subcategoría a la que pertenece el producto.
+- **image**: La imagen del producto.
+- **link**: El enlace de referencia del sitio web de Amazon para el producto.
+- **ratings**: Las calificaciones otorgadas por los clientes de Amazon al producto.
+- **no of ratings**: El número de calificaciones otorgadas a este producto en Amazon.
+- **discount_price**: El precio de descuento del producto.
+- **actual_price**: El precio real de venta sugerido del producto.
+
+### Inspiración
+
+Amazon es una empresa multinacional tecnológica estadounidense cuyos intereses comerciales incluyen el comercio electrónico, donde compran y almacenan el inventario, y se encargan de todo, desde el envío y los precios hasta el servicio al cliente y las devoluciones. Se ha creado este conjunto de datos para que las personas puedan trabajar con él y hacer muchas cosas, como se menciona a continuación:
+
+- Recorrido por el conjunto de datos
+- Preprocesamiento de datos
+- Comprensión de la jerarquía del conjunto de datos
+- Análisis Exploratorio de Datos
+- Visualización de Datos utilizando matplotlib y seaborn
+- Visualización de Datos utilizando herramientas de BI como Tableau, PowerBI, Kibana, Grafana, Splunk
+- Creación de sistemas de recomendación
+- Scraping del contenido de cada producto en detalle
+
+Esta es una lista de algunas de las cosas que puedes hacer con este conjunto de datos. No se limita definitivamente a lo que se menciona aquí, sino que se pueden hacer muchas otras cosas.
+
+
 ## EDA
 ### Plan de Análisis Exploratorio de Datos (EDA)
 
