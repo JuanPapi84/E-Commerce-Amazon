@@ -1,11 +1,17 @@
-# Precios y Popularidad de Productos en Amazon
+<p align="center">
+  <img src="imagenes/logo.webp" alt="Descripción opcional del logo" width="200" height="200">
+</p>
+
+# DATAGEEKS
+
+## Precios y Popularidad de Productos en Amazon
 Este proyecto, titulado "Precios y Popularidad de Productos en Amazon", surge como respuesta a la necesidad de comprender las dinámicas fundamentales que impulsan el éxito en el comercio electrónico, particularmente en la plataforma líder, Amazon. Como consultores de datos de "DataGeeks & Coffee", nos hemos propuesto analizar en profundidad el comportamiento de los productos en esta plataforma, con el objetivo de proporcionar insights valiosos tanto para los vendedores como para los consumidores.
 
-## Descripción del Problema
+### Descripción del Problema
 
 El crecimiento exponencial del comercio electrónico ha puesto de relieve la importancia de comprender las tendencias de precios, descuentos y popularidad de los productos. Esta comprensión es crucial para que los vendedores optimicen sus estrategias de precios y promociones, y para que los consumidores encuentren productos de alta calidad a precios competitivos.
 
-## Soluciones Propuestas
+### Soluciones Propuestas
 
 Nuestro proyecto aborda este desafío mediante:
 
@@ -14,15 +20,15 @@ Insights de Popularidad: Identificando los productos más populares y mejor valo
 Recomendaciones Estratégicas: Ofreciendo recomendaciones para ajustar estrategias de precios y promociones.
 Dashboard Interactivo: Desarrollando un dashboard intuitivo para explorar datos y obtener insights personalizados.
 
-## Valor Agregado
+### Valor Agregado
 
 Nos destacamos por nuestra accesibilidad, enfoque integral, personalización y detalle, así como por la innovación en visualización de datos.
 
-## Resultados Esperados e Impacto
+### Resultados Esperados e Impacto
 
 Esperamos mejorar las estrategias de precios y promociones, así como la experiencia del consumidor, aumentar la transparencia y eficiencia del comercio electrónico, y empoderar a los pequeños y medianos vendedores.
 
-## Fuentes de Datos y Plan de Análisis
+### Fuentes de Datos y Plan de Análisis
 
 Utilizaremos el dataset "Amazon Products Sales Dataset 2023" para realizar tareas de limpieza, análisis exploratorio, análisis correlacional, segmentación de productos y elaboración de informes.
 
@@ -90,3 +96,42 @@ El Análisis Exploratorio de Datos (EDA) es fundamental para comprender la natur
 8. **Resumen de hallazgos**: Recapitular los hallazgos más importantes del análisis exploratorio de datos y cualquier insight relevante que pueda surgir del proceso.
 
 Este proceso de EDA proporciona una base sólida para el análisis posterior y la toma de decisiones en el proyecto de "Precios y Popularidad de Productos en Amazon".
+
+## Organización del Proyecto
+
+    ├── LICENSE
+    ├── README.md                                <- El archivo README principal para desarrolladores que utilizan este proyecto
+    ├── instalacion.md                           <- Instrucciones detalladas para configurar este proyecto.
+    ├── data
+    │   ├── externos                             <- Datos de fuentes externas.
+    │   ├── procesados                           <- Conjuntos de datos finales y validados para el modelado.
+    │   └── sin_procesar                         <- Los datos originales sin modificar..
+    │
+    │
+    ├── notebooks                               <- Cuadernos Jupyter.
+    │   ├── tratamiento-datos-nulos.ipynb       <- Notebook de Tratamiento de Datos Nulos.
+    │   └── analisis-exploratorio-datos.ipynb   <- Notebook de Análisis Exploratorio de Datos.
+    │
+    │
+    ├── scripts_SQL                             <- Scripts SQL
+    │   ├── amazon_avance1.sql                  <- Scripts de avance 1 de proyecto amazon en sql.
+    │   ├── amazon_avance2.sql                  <- Scripts de avance 2 de proyecto amazon en sql.
+    │   ├── amazon_avance3.sql                  <- Scripts de avance 3 de proyecto amazon en sql.
+    │   └── amazon_avance4.sql                  <- Scripts de avance 4 de proyecto amazon en sql.
+    │
+    │ 
+    ├── powerBI                                 <- Archivos PowerBI para el Proyecto 
+    │   └── mockup_amazon.pdf                   <- Mockup del Proyecto Amazon.
+    │
+    ├── reportes                                <- Análisis generado en HTML, PDF, LaTeX, etc.
+    │ 
+    ├── imagenes                                <- Imagenes usadas en archivo README
+    │   └── logo.webp                           <- Los datos originales sin modificar.
+    │
+    └──  .here                                  <- Archivo que detendrá la búsqueda si ninguno de los otros criterios se 
+                                                   aplica al buscar el encabezado del proyecto.
+   
+    
+
+---
+
