@@ -58,21 +58,6 @@ Este conjunto de datos es un raspado de ventas de productos del sitio web de Ama
 - **discount_price**: El precio de descuento del producto.
 - **actual_price**: El precio real de venta sugerido del producto.
 
-### Inspiración
-
-Amazon es una empresa multinacional tecnológica estadounidense cuyos intereses comerciales incluyen el comercio electrónico, donde compran y almacenan el inventario, y se encargan de todo, desde el envío y los precios hasta el servicio al cliente y las devoluciones. Se ha creado este conjunto de datos para que las personas puedan trabajar con él y hacer muchas cosas, como se menciona a continuación:
-
-- Recorrido por el conjunto de datos
-- Preprocesamiento de datos
-- Comprensión de la jerarquía del conjunto de datos
-- Análisis Exploratorio de Datos
-- Visualización de Datos utilizando matplotlib y seaborn
-- Visualización de Datos utilizando herramientas de BI como Tableau, PowerBI, Kibana, Grafana, Splunk
-- Creación de sistemas de recomendación
-- Scraping del contenido de cada producto en detalle
-
-Esta es una lista de algunas de las cosas que puedes hacer con este conjunto de datos. No se limita definitivamente a lo que se menciona aquí, sino que se pueden hacer muchas otras cosas.
-
 
 ## EDA
 ### Plan de Análisis Exploratorio de Datos (EDA)
