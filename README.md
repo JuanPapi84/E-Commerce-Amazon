@@ -64,9 +64,13 @@ Este conjunto de datos es un raspado de ventas de productos del sitio web de Ama
 2. **Manejo de datos faltantes**: Identificar y manejar los valores faltantes en el conjunto de datos. Esto puede implicar el relleno de valores faltantes, eliminación de filas o columnas con datos faltantes, o imputación de valores basados en otras características.
 ## SQL
 1.**Creacion de bases de datos y carga de datos**: Recepcionados los datos en un documento .csv, procedimos a su importacion.
+
 2.**Analisis exploratorio**: Analisis acerca del contenido de las columnas, relacion  y correlacion de los datos.
+
 3.**Creacion de tablas**: Creamos tablas adicionales para un perfecto orden y rendimiento de los datos, y obtuvimos un diagrama relacional.
+
 4.**Automatizacion**: Realizamos una automatizacion en la carga de datos.
+
 ## EDA
 ### Plan de Análisis Exploratorio de Datos (EDA)
 
