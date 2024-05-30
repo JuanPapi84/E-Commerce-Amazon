@@ -127,4 +127,118 @@ Este proceso de EDA proporciona una base sólida para el análisis posterior y l
     
 
 ---
+# Proyecto de Dashboard en Power BI para Amazon
 
+Este proyecto detalla el proceso de creación de un dashboard en Power BI utilizando datos de una base de datos de SQL Server. El dashboard incluye análisis detallados por categoría, subcategoría, fabricante, rating y producto, así como una hoja resumen con información general sobre la base de datos.
+
+## Tabla de Contenidos
+
+- [Diseño del Mockup](#diseño-del-mockup)
+- [Conexión a la Base de Datos](#conexión-a-la-base-de-datos)
+- [Limpieza de Datos](#limpieza-de-datos)
+- [Creación del Dashboard](#creación-del-dashboard)
+  - [Portada](#portada)
+  - [Análisis por Categoría](#análisis-por-categoría)
+  - [Análisis por Subcategoría](#análisis-por-subcategoría)
+  - [Análisis por Fabricante](#análisis-por-fabricante)
+  - [Análisis por Rating](#análisis-por-rating)
+  - [Análisis por Producto](#análisis-por-producto)
+  - [Información General](#información-general)
+- [Conclusiones](#conclusiones)
+
+## Diseño del Mockup
+
+1. *Herramienta utilizada*: Google Slides.
+2. *Colores corporativos*: Utilicé los colores oficiales de Amazon:
+   - Naranja (#FF9900)
+   - Negro (#000000)
+   - Blanco (#FFFFFF)
+3. *Estructura del mockup*:
+   - Una diapositiva para cada hoja del dashboard, detallando la disposición de gráficos y elementos.
+
+## Conexión a la Base de Datos
+
+1. *Fuente de datos*: SQL Server.
+2. *Configuración de la conexión*:
+   - Abrir Power BI.
+   - Seleccionar "Obtener datos" > "SQL Server".
+   - Ingresar los detalles del servidor y la base de datos.
+
+## Limpieza de Datos
+
+1. *Problema detectado*: Algunos valores en las columnas tenían números irracionales.
+2. *Proceso de corrección*:
+   - Usé el Editor de Consultas de Power BI.
+   - Realicé transformaciones para corregir los datos anómalos.
+
+## Creación del Dashboard
+
+### Portada
+
+1. *Contenido*:
+   - Título del proyecto.
+   - Botones de navegación para acceder a las diferentes hojas del dashboard.
+2. *Elementos visuales*:
+   - Logotipo de Amazon.
+   - Botones interactivos.
+
+### Análisis por Categoría
+
+1. *Contenido*:
+   - Gráficos que muestran el análisis de productos agrupados por categoría.
+2. *Tipo de gráficos*:
+   - Barras.
+   - Líneas.
+   - Columnas.
+
+### Análisis por Subcategoría
+
+1. *Contenido*:
+   - Gráficos que muestran el análisis de productos agrupados por subcategoría.
+2. *Tipo de gráficos*:
+   - Barras.
+   - Líneas.
+   - Columnas.
+
+### Análisis por Fabricante
+
+1. *Contenido*:
+   - Gráficos que muestran el análisis de productos agrupados por fabricante.
+2. *Tipo de gráficos*:
+   - Barras.
+   - Líneas.
+   - Columnas.
+
+### Análisis por Rating
+
+1. *Contenido*:
+   - Gráficos que muestran el análisis de productos agrupados por rating.
+2. *Tipo de gráficos*:
+   - Barras.
+   - Líneas.
+   - Columnas.
+   - Dispersión.
+
+### Análisis por Producto
+
+1. *Contenido*:
+   - Gráficos que muestran el análisis detallado por producto.
+2. *Tipo de gráficos*:
+   - Barras con líneas.
+   - Área.
+   - Barras.
+   - Columnas.
+
+### Información General
+
+1. *Contenido*:
+   - Cantidad total de productos.
+   - Número de categorías y subcategorías.
+   - Número de fabricantes.
+2. *Elementos visuales*:
+   - Tarjetas de información.
+   - Gráficos de resumen (barras, líneas, columnas).
+
+## Conclusiones
+
+Este proyecto de dashboard en Power BI proporciona una visión detallada y estructurada de los datos de productos de Amazon. La organización en múltiples hojas facilita la navegación y el análisis específico, ofreciendo una herramienta valiosa para la toma de decisiones informadas.
