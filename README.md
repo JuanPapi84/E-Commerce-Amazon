@@ -263,13 +263,14 @@ Este proyecto de dashboard en Power BI proporciona una visión detallada y estru
 **LinkedIn**: [Juan Papi](https://www.linkedin.com/in/juanpapi/)
 
 ### Pablo Cabrera
-**Rol**: Ingeniero de Datos  
+**Rol**: Data Engineer Expert
 **LinkedIn**: [Pablo Cabrera](https://www.linkedin.com/in/pablo-cabrera-b96241178/)
 
-
-## Mentora del Proyecto
-
 ### Ángela Aguirre
-**Rol**: Mentora del Proyecto (Henry)  
+**Role**: Project Mentor (Henry)  
 **LinkedIn**: [Ángela Aguirre](https://www.linkedin.com/in/angela-aguirre1/)
+
+### Mariana Gigena
+**Role**: Product Owner (Henry)  
+**LinkedIn**: [Mariana Gigena](https://www.linkedin.com/in/mariana-gigena-de-henry/)
 
