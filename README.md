@@ -90,43 +90,6 @@ El Análisis Exploratorio de Datos (EDA) es fundamental para comprender la natur
 
 Este proceso de EDA proporciona una base sólida para el análisis posterior y la toma de decisiones en el proyecto de "Precios y Popularidad de Productos en Amazon".
 
-## Organización del Proyecto
-
-    ├── LICENSE
-    ├── README.md                                <- El archivo README principal para desarrolladores que utilizan este proyecto
-    ├── instalacion.md                           <- Instrucciones detalladas para configurar este proyecto.
-    ├── data
-    │   ├── externos                             <- Datos de fuentes externas.
-    │   ├── procesados                           <- Conjuntos de datos finales y validados para el modelado.
-    │   └── sin_procesar                         <- Los datos originales sin modificar..
-    │
-    │
-    ├── notebooks                               <- Cuadernos Jupyter.
-    │   ├── tratamiento-datos-nulos.ipynb       <- Notebook de Tratamiento de Datos Nulos.
-    │   └── analisis-exploratorio-datos.ipynb   <- Notebook de Análisis Exploratorio de Datos.
-    │
-    │
-    ├── archivos_sql                            <- Scripts SQL
-    │   ├── amazon_avance1.sql                  <- Scripts de avance 1 de proyecto amazon en sql.
-    │   ├── amazon_avance2.sql                  <- Scripts de avance 2 de proyecto amazon en sql.
-    │   ├── amazon_avance3.sql                  <- Scripts de avance 3 de proyecto amazon en sql.
-    │   └── amazon_avance4.sql                  <- Scripts de avance 4 de proyecto amazon en sql.
-    │
-    │ 
-    ├── powerBI                                 <- Archivos PowerBI para el Proyecto 
-    │   └── mockup_amazon.pdf                   <- Mockup del Proyecto Amazon.
-    │
-    ├── reportes                                <- Análisis generado en HTML, PDF, LaTeX, etc.
-    │ 
-    ├── imagenes                                <- Imagenes usadas en archivo README
-    │   └── logo.webp                           <- Logo de la empresa que realiza el proyecto.
-    │
-    └──  .here                                  <- Archivo que detendrá la búsqueda si ninguno de los otros criterios se 
-                                                   aplica al buscar el encabezado del proyecto.
-   
-    
-
----
 # Proyecto de Dashboard en Power BI para Amazon
 
 Este proyecto detalla el proceso de creación de un dashboard en Power BI utilizando datos de una base de datos de SQL Server. El dashboard incluye análisis detallados por categoría, subcategoría, fabricante, rating y producto, así como una hoja resumen con información general sobre la base de datos.
@@ -242,3 +205,41 @@ Este proyecto detalla el proceso de creación de un dashboard en Power BI utiliz
 ## Conclusiones
 
 Este proyecto de dashboard en Power BI proporciona una visión detallada y estructurada de los datos de productos de Amazon. La organización en múltiples hojas facilita la navegación y el análisis específico, ofreciendo una herramienta valiosa para la toma de decisiones informadas.
+
+## Organización del Proyecto
+
+    ├── LICENSE
+    ├── README.md                                <- El archivo README principal para desarrolladores que utilizan este proyecto
+    ├── instalacion.md                           <- Instrucciones detalladas para configurar este proyecto.
+    ├── data
+    │   ├── externos                             <- Datos de fuentes externas.
+    │   ├── procesados                           <- Conjuntos de datos finales y validados para el modelado.
+    │   └── sin_procesar                         <- Los datos originales sin modificar..
+    │
+    │
+    ├── notebooks                               <- Cuadernos Jupyter.
+    │   ├── tratamiento-datos-nulos.ipynb       <- Notebook de Tratamiento de Datos Nulos.
+    │   └── analisis-exploratorio-datos.ipynb   <- Notebook de Análisis Exploratorio de Datos.
+    │
+    │
+    ├── archivos_sql                            <- Scripts SQL
+    │   ├── amazon_avance1.sql                  <- Scripts de avance 1 de proyecto amazon en sql.
+    │   ├── amazon_avance2.sql                  <- Scripts de avance 2 de proyecto amazon en sql.
+    │   ├── amazon_avance3.sql                  <- Scripts de avance 3 de proyecto amazon en sql.
+    │   └── amazon_avance4.sql                  <- Scripts de avance 4 de proyecto amazon en sql.
+    │
+    │ 
+    ├── powerBI                                 <- Archivos PowerBI para el Proyecto 
+    │   └── mockup_amazon.pdf                   <- Mockup del Proyecto Amazon.
+    │
+    ├── reportes                                <- Análisis generado en HTML, PDF, LaTeX, etc.
+    │ 
+    ├── imagenes                                <- Imagenes usadas en archivo README
+    │   └── logo.webp                           <- Logo de la empresa que realiza el proyecto.
+    │
+    └──  .here                                  <- Archivo que detendrá la búsqueda si ninguno de los otros criterios se 
+                                                   aplica al buscar el encabezado del proyecto.
+   
+    
+
+---
