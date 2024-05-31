@@ -263,7 +263,7 @@ Este proyecto de dashboard en Power BI proporciona una visión detallada y estru
 **LinkedIn**: [Juan Papi](https://www.linkedin.com/in/juanpapi/)
 
 ### Pablo Cabrera
-**Rol**: Data Engineer Expert 
+**Role**: Data Engineer  
 **LinkedIn**: [Pablo Cabrera](https://www.linkedin.com/in/pablo-cabrera-b96241178/)
 
 ### Ángela Aguirre
