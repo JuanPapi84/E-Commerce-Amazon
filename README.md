@@ -272,5 +272,5 @@ Este proyecto de dashboard en Power BI proporciona una visión detallada y estru
 
 ### Mariana Gigena
 **Role**: Product Owner (Henry)  
-**LinkedIn**: [Mariana Gigena](https://www.linkedin.com/in/mariana-gigena-de-henry/)
+**LinkedIn**: [Mariana Gigena](https://www.linkedin.com/in/mariana-gigena/)
 
