@@ -243,3 +243,33 @@ Este proyecto de dashboard en Power BI proporciona una visión detallada y estru
     
 
 ---
+
+## Colaboradores del Proyecto
+
+### Gina Giuliana Correa
+**Rol**: Data Analyst Expert  
+**LinkedIn**: [Gina Giuliana Correa](https://www.linkedin.com/in/gina-giuliana-correa/)
+
+### Edwin Marcel Aguirre
+**Rol**: Data Engineer Expert  
+**LinkedIn**: [Edwin Marcel Aguirre](https://www.linkedin.com/in/edwinaguirre/)
+
+### Valentín Baldi
+**Rol**: Data Analyst Expert  
+**LinkedIn**: [Valentín Baldi](https://www.linkedin.com/in/valentin-baldi-7385921a3/)
+
+### Juan Papi
+**Rol**: Data Engineer Expert  
+**LinkedIn**: [Juan Papi](https://www.linkedin.com/in/juanpapi/)
+
+### Pablo Cabrera
+**Rol**: Ingeniero de Datos  
+**LinkedIn**: [Pablo Cabrera](https://www.linkedin.com/in/pablo-cabrera-b96241178/)
+
+
+## Mentora del Proyecto
+
+### Ángela Aguirre
+**Rol**: Mentora del Proyecto (Henry)  
+**LinkedIn**: [Ángela Aguirre](https://www.linkedin.com/in/angela-aguirre1/)
+
